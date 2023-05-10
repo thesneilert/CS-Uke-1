@@ -1,0 +1,15 @@
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/bin/Debug/net6.0/Ukesoppgave Uke 1
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/bin/Debug/net6.0/Ukesoppgave Uke 1.deps.json
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/bin/Debug/net6.0/Ukesoppgave Uke 1.runtimeconfig.json
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/bin/Debug/net6.0/Ukesoppgave Uke 1.dll
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/bin/Debug/net6.0/Ukesoppgave Uke 1.pdb
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/obj/Debug/net6.0/Ukesoppgave Uke 1.csproj.AssemblyReference.cache
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/obj/Debug/net6.0/Ukesoppgave Uke 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/obj/Debug/net6.0/Ukesoppgave Uke 1.AssemblyInfoInputs.cache
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/obj/Debug/net6.0/Ukesoppgave Uke 1.AssemblyInfo.cs
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/obj/Debug/net6.0/Ukesoppgave Uke 1.csproj.CoreCompileInputs.cache
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/obj/Debug/net6.0/Ukesoppgave Uke 1.dll
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/obj/Debug/net6.0/refint/Ukesoppgave Uke 1.dll
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/obj/Debug/net6.0/Ukesoppgave Uke 1.pdb
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/obj/Debug/net6.0/Ukesoppgave Uke 1.genruntimeconfig.cache
+/Users/eilertrygh/RiderProjects/Ukesoppgave Uke 1/Ukesoppgave Uke 1/obj/Debug/net6.0/ref/Ukesoppgave Uke 1.dll
